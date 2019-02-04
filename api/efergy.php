@@ -91,6 +91,7 @@ $options = array(
 	'offset'	=>	0
 );
 
+
 $results[] = $energyhive->get('getHV',$options);
 
 $encoded_result = json_encode($results[0]);
