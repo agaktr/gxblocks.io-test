@@ -1,0 +1,8 @@
+[10-Dec-2018 17:27:14 Europe/Helsinki] PHP Warning:  require(./includes/config/init.php): failed to open stream: No such file or directory in /home/gxblocks/public_html/dashboards/energy.php on line 3
+[10-Dec-2018 17:27:14 Europe/Helsinki] PHP Warning:  require(./includes/config/init.php): failed to open stream: No such file or directory in /home/gxblocks/public_html/dashboards/energy.php on line 3
+[10-Dec-2018 17:27:14 Europe/Helsinki] PHP Fatal error:  require(): Failed opening required './includes/config/init.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gxblocks/public_html/dashboards/energy.php on line 3
+[10-Dec-2018 17:27:36 Europe/Helsinki] PHP Warning:  require(./includes/config/functions.php): failed to open stream: No such file or directory in /home/gxblocks/public_html/includes/config/init.php on line 3
+[10-Dec-2018 17:27:36 Europe/Helsinki] PHP Warning:  require(./includes/config/functions.php): failed to open stream: No such file or directory in /home/gxblocks/public_html/includes/config/init.php on line 3
+[10-Dec-2018 17:27:36 Europe/Helsinki] PHP Fatal error:  require(): Failed opening required './includes/config/functions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gxblocks/public_html/includes/config/init.php on line 3
+[10-Dec-2018 17:35:45 Europe/Helsinki] PHP Warning:  Missing argument 1 for gxb_menu(), called in /home/gxblocks/public_html/includes/elements/header.php on line 16 and defined in /home/gxblocks/public_html/includes/config/functions.php on line 9
+[11-Dec-2018 15:26:45 Europe/Helsinki] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/gxblocks/public_html/includes/config/functions.php on line 110

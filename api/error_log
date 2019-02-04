@@ -1,0 +1,213 @@
+[18-Dec-2018 11:53:39 Europe/Helsinki] PHP Notice:  Undefined variable: ant_config in /home/gxblocks/public_html/api/antpool.php on line 40
+[18-Dec-2018 11:57:34 Europe/Helsinki] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/gxblocks/public_html/api/antpool.php on line 51
+[18-Dec-2018 12:16:13 Europe/Helsinki] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/gxblocks/public_html/api/antpool.php on line 51
+[18-Dec-2018 12:47:16 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/antpool.php on line 72
+[18-Dec-2018 12:47:16 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/antpool.php on line 72
+[18-Dec-2018 12:47:16 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/antpool.php on line 72
+[18-Dec-2018 12:49:17 Europe/Helsinki] PHP Fatal error:  Class 'ant_config' not found in /home/gxblocks/public_html/api/antpool.php on line 92
+[18-Dec-2018 13:26:54 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '<' in /home/gxblocks/public_html/api/antpool.php on line 32
+[11-Jan-2019 16:07:04 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 53
+[11-Jan-2019 16:16:03 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gxblocks/public_html/api/efergy.php on line 71
+[11-Jan-2019 16:16:42 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gxblocks/public_html/api/efergy.php on line 71
+[11-Jan-2019 16:16:51 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gxblocks/public_html/api/efergy.php on line 71
+[11-Jan-2019 16:16:59 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gxblocks/public_html/api/efergy.php on line 71
+[11-Jan-2019 16:17:07 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gxblocks/public_html/api/efergy.php on line 71
+[11-Jan-2019 16:33:38 Europe/Helsinki] PHP Notice:  Undefined index: data in /home/gxblocks/public_html/api/efergy.php on line 87
+[11-Jan-2019 16:33:38 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 87
+[11-Jan-2019 16:33:50 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 87
+[11-Jan-2019 16:33:50 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 87
+[11-Jan-2019 16:33:55 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 87
+[11-Jan-2019 16:33:55 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 87
+[11-Jan-2019 16:34:13 Europe/Helsinki] PHP Fatal error:  Cannot use object of type stdClass as array in /home/gxblocks/public_html/api/efergy.php on line 87
+[11-Jan-2019 17:15:48 Europe/Helsinki] PHP Fatal error:  Call to undefined function value() in /home/gxblocks/public_html/api/efergy.php on line 104
+[11-Jan-2019 17:16:10 Europe/Helsinki] PHP Fatal error:  Call to undefined method stdClass::key() in /home/gxblocks/public_html/api/efergy.php on line 104
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:34:53 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 101
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:36:40 Europe/Helsinki] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/gxblocks/public_html/api/efergy.php on line 116
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  key() expects parameter 1 to be array, string given in /home/gxblocks/public_html/api/efergy.php on line 92
+[14-Jan-2019 13:37:02 Europe/Helsinki] PHP Warning:  var_dump() expects at least 1 parameter, 0 given in /home/gxblocks/public_html/api/efergy.php on line 116
+[14-Jan-2019 13:40:27 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/gxblocks/public_html/api/efergy.php on line 83
+[14-Jan-2019 13:40:42 Europe/Helsinki] PHP Notice:  Undefined property: stdClass::$data in /home/gxblocks/public_html/api/efergy.php on line 112
+[14-Jan-2019 13:40:42 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 112
+[14-Jan-2019 13:41:02 Europe/Helsinki] PHP Notice:  Undefined property: stdClass::$data in /home/gxblocks/public_html/api/efergy.php on line 112
+[14-Jan-2019 13:41:02 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 112
+[14-Jan-2019 13:46:16 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/gxblocks/public_html/api/efergy.php on line 107
+[14-Jan-2019 13:53:18 Europe/Helsinki] PHP Notice:  Undefined property: stdClass::$data in /home/gxblocks/public_html/api/efergy.php on line 87
+[14-Jan-2019 13:53:18 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 87
+[14-Jan-2019 13:53:40 Europe/Helsinki] PHP Notice:  Undefined property: stdClass::$data in /home/gxblocks/public_html/api/efergy.php on line 87
+[14-Jan-2019 13:53:40 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 87
+[14-Jan-2019 13:53:49 Europe/Helsinki] PHP Notice:  Undefined property: stdClass::$data in /home/gxblocks/public_html/api/efergy.php on line 87
+[14-Jan-2019 13:53:49 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 87
+[14-Jan-2019 13:55:57 Europe/Helsinki] PHP Notice:  Undefined property: stdClass::$data in /home/gxblocks/public_html/api/efergy.php on line 135
+[14-Jan-2019 13:55:57 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 135
+[14-Jan-2019 13:56:25 Europe/Helsinki] PHP Notice:  Undefined property: stdClass::$data in /home/gxblocks/public_html/api/efergy.php on line 111
+[14-Jan-2019 13:56:25 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 111
+[14-Jan-2019 14:06:05 Europe/Helsinki] PHP Notice:  Undefined property: stdClass::$data in /home/gxblocks/public_html/api/efergy.php on line 111
+[14-Jan-2019 14:06:05 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 111
+[14-Jan-2019 14:53:41 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 139
+[14-Jan-2019 14:53:41 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 139
+[14-Jan-2019 14:53:41 Europe/Helsinki] PHP Notice:  Trying to get property of non-object in /home/gxblocks/public_html/api/efergy.php on line 139
+[14-Jan-2019 14:53:41 Europe/Helsinki] PHP Warning:  Invalid argument supplied for foreach() in /home/gxblocks/public_html/api/efergy.php on line 139
+[14-Jan-2019 14:59:49 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ''.$encoded_result.'' (T_CONSTANT_ENCAPSED_STRING) in /home/gxblocks/public_html/api/efergy.php on line 173
+[14-Jan-2019 15:00:13 Europe/Helsinki] PHP Parse error:  syntax error, unexpected '/' in /home/gxblocks/public_html/api/efergy.php on line 175
+[16-Jan-2019 13:28:12 Europe/Helsinki] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/gxblocks/public_html/api/portfolio.php on line 169
+[16-Jan-2019 13:28:45 Europe/Helsinki] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/gxblocks/public_html/api/portfolio.php on line 170
+[18-Jan-2019 06:32:07 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:08 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:10 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:11 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:12 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:13 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:14 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:15 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:16 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:17 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:18 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:19 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:20 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:22 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:23 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/antpool.php on line 55
+[18-Jan-2019 06:32:24 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1130): Host '192.185.4.155' is not allowed to connect to this MySQL server in /home3/gxblocks/public_html/api/antpool.php on line 153
+[18-Jan-2019 06:44:04 America/Chicago] PHP Warning:  require_once(/home3/gxblocks/public_html/api/classes/class-db-handler.php): failed to open stream: No such file or directory in /home3/gxblocks/public_html/api/antpool.php on line 10
+[18-Jan-2019 06:44:04 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home3/gxblocks/public_html/api/classes/class-db-handler.php' (include_path='.:/opt/php56/lib/php') in /home3/gxblocks/public_html/api/antpool.php on line 10
+[18-Jan-2019 06:45:27 America/Chicago] PHP Warning:  dirname() expects exactly 1 parameter, 2 given in /home3/gxblocks/public_html/api/antpool.php on line 7
+[18-Jan-2019 06:45:27 America/Chicago] PHP Warning:  require_once(/classes/class-db-handler.php): failed to open stream: No such file or directory in /home3/gxblocks/public_html/api/antpool.php on line 10
+[18-Jan-2019 06:45:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/classes/class-db-handler.php' (include_path='.:/opt/php56/lib/php') in /home3/gxblocks/public_html/api/antpool.php on line 10
+[18-Jan-2019 06:46:42 America/Chicago] PHP Warning:  file_get_contents(sql_config.txt): failed to open stream: No such file or directory in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 41
+[18-Jan-2019 06:46:42 America/Chicago] PHP Notice:  Undefined offset: 1 in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 45
+[18-Jan-2019 06:46:42 America/Chicago] PHP Notice:  Undefined offset: 2 in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 46
+[18-Jan-2019 06:46:42 America/Chicago] PHP Notice:  Undefined offset: 3 in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 47
+[18-Jan-2019 06:46:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 64
+[18-Jan-2019 06:48:21 America/Chicago] PHP Warning:  file_get_contents(../ql_config.txt): failed to open stream: No such file or directory in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 41
+[18-Jan-2019 06:48:21 America/Chicago] PHP Notice:  Undefined offset: 1 in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 45
+[18-Jan-2019 06:48:21 America/Chicago] PHP Notice:  Undefined offset: 2 in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 46
+[18-Jan-2019 06:48:21 America/Chicago] PHP Notice:  Undefined offset: 3 in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 47
+[18-Jan-2019 06:48:21 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 64
+[18-Jan-2019 06:55:22 America/Chicago] PHP Notice:  Undefined variable: coins_data in /home3/gxblocks/public_html/api/efergy.php on line 103
+[18-Jan-2019 06:55:22 America/Chicago] PHP Notice:  Undefined variable: encoded_result in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 136
+[18-Jan-2019 06:55:22 America/Chicago] PHP Notice:  Undefined variable: conn in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 139
+[18-Jan-2019 06:55:22 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 139
+[18-Jan-2019 06:56:03 America/Chicago] PHP Notice:  Undefined variable: encoded_result in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 136
+[18-Jan-2019 06:56:03 America/Chicago] PHP Notice:  Undefined variable: conn in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 139
+[18-Jan-2019 06:56:03 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home3/gxblocks/public_html/includes/classes/class-db-handler.php on line 139
+[18-Jan-2019 07:00:49 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/portfolio.php on line 61
+[18-Jan-2019 07:00:51 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/portfolio.php on line 61
+[18-Jan-2019 07:00:52 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/portfolio.php on line 61
+[18-Jan-2019 07:00:53 America/Chicago] PHP Notice:  Use of undefined constant CURL_SSLVERSION_TLSv1_2 - assumed 'CURL_SSLVERSION_TLSv1_2' in /home3/gxblocks/public_html/api/portfolio.php on line 61
