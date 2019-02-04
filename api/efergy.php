@@ -76,7 +76,6 @@ class efergy {
 	}
 }
 
-
 $energyhive = new efergy('Mh7yq4UKAJoivW5Zxl_pLUxbvZfS-NgG');
 
 $fromtime = strtotime('-28 days') + 28800;
